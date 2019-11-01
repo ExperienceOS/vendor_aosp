@@ -114,7 +114,8 @@ PRODUCT_DEXPREOPT_SPEED_APPS += \
 
 # ExperienceOS Packages
 PRODUCT_PACKAGES += \
-    ThemePicker
+    ThemePicker \
+    ExperienceThemesStub
 
 # Custom Overlays
 # Settings

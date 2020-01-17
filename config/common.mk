@@ -122,7 +122,9 @@ PRODUCT_PACKAGES += \
     SystemStyleOverlay \
     SystemUIStyleOverlay \
     SystemNightOverlay \
-    SystemUINightOverlay
+    SystemUINightOverlay \
+    SystemSolarizedDarkOverlay \
+    SystemUISolarizedDarkOverlay
 
 # SystemUI plugins
 PRODUCT_PACKAGES += \

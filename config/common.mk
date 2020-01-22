@@ -126,7 +126,11 @@ PRODUCT_PACKAGES += \
     SystemSolarizedDarkOverlay \
     SystemUISolarizedDarkOverlay \
     SystemMaterialOceanOverlay \
-    SystemUIMaterialOceanOverlay
+    SystemUIMaterialOceanOverlay \
+    SystemBakedGreenOverlay \
+    SystemUIBakedGreenOverlay \
+    SystemChocoXOverlay \
+    SystemUIChocoXOverlay
 
 # SystemUI plugins
 PRODUCT_PACKAGES += \

@@ -130,7 +130,9 @@ PRODUCT_PACKAGES += \
     SystemBakedGreenOverlay \
     SystemUIBakedGreenOverlay \
     SystemChocoXOverlay \
-    SystemUIChocoXOverlay
+    SystemUIChocoXOverlay \
+    SystemDarkAubergineOverlay \
+    SystemUIDarkAubergineOverlay
 
 # SystemUI plugins
 PRODUCT_PACKAGES += \

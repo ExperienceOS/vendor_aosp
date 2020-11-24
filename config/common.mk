@@ -246,6 +246,8 @@ PRODUCT_PACKAGES += \
     SystemChocoXOverlay \
     SystemUIChocoXOverlay \
     SystemDarkAubergineOverlay \
-    SystemUIDarkAubergineOverlay
+    SystemUIDarkAubergineOverlay \
+    SystemXtendedClearOverlay \
+    SystemUIXtendedClearOverlay
 
 -include $(WORKSPACE)/build_env/image-auto-bits.mk

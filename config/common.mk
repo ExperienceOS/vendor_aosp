@@ -148,6 +148,9 @@ PRODUCT_PACKAGES += \
     SystemDarkAubergineOverlay \
     SystemUIDarkAubergineOverlay
 
+# Plugins
+include packages/apps/Plugins/plugins.mk
+
 # SystemUI plugins
 PRODUCT_PACKAGES += \
     QuickAccessWallet

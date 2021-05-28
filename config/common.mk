@@ -124,6 +124,7 @@ PRODUCT_DEXPREOPT_SPEED_APPS += \
 PRODUCT_PACKAGES += \
     ThemePicker \
     BlasterThemesStub \
+    OmniStyle \
     StitchImage
 
 # Custom Overlays

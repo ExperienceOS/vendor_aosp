@@ -33,6 +33,11 @@ PRODUCT_SYSTEM_DEFAULT_PROPERTIES += ro.adb.secure=1
 PRODUCT_SYSTEM_DEFAULT_PROPERTIES += persist.sys.strictmode.disable=true
 endif
 
+# OnePlus Launcher & Widget
+ifeq ($(WITH_OPLAUNCHER), true)
+include vendor/oplauncher/OPLauncher.mk
+endif
+
 # Some permissions
 PRODUCT_COPY_FILES += \
     vendor/aosp/config/permissions/backup.xml:system/etc/sysconfig/backup.xml \
